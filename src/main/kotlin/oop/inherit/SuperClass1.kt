@@ -1,6 +1,6 @@
 package oop.inherit
 
-open class SuperClass {
+open class SuperClass1 {
     var superMember1 = 100
 
     fun superMember1(){

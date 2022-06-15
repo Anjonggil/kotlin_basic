@@ -1,4 +1,3 @@
 package oop.inherit
 
-class SuperClass2 {
-}
+open class SuperClass2 (val a1:Int)

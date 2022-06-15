@@ -1,4 +1,4 @@
-package function
+package init.function
 
 fun main(){
     test1();

@@ -1,4 +1,4 @@
-package operator
+package init.operator
 
 fun main(){
     val a1:Int = 10

@@ -1,4 +1,4 @@
-package `if`
+package init.`if`
 
 fun main(){
     val a1:Int = 10

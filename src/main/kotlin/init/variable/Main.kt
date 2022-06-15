@@ -1,4 +1,4 @@
-package variable
+package init.variable
 
 fun main(){
     //정수 리터럴

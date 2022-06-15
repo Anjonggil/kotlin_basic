@@ -1,4 +1,4 @@
-package Loop
+package init.Loop
 
 fun main(){
     val a1 = 1..10
