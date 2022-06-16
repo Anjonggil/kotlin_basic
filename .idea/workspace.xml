@@ -4,27 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a27fa309-cd77-4cd3-bcac-c34f6c918fa4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="a27fa309-cd77-4cd3-bcac-c34f6c918fa4" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/abstact/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/abstact/SubClass1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/abstact/Super1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/any/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/any/TestClass1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/interface/Inter1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/interface/Inter2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/interface/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/interface/TestClass1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/interface/TestClass2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/interface/TestClass3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/lazyinitialize/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/lazyinitialize/TestClass1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/overriding/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/overriding/SubClass1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/overriding/SubClass2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/overriding/SuperClass1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/overriding/SuperClass2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/property/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/property/TestClass1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/property/TestClass2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/thissuper/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/thissuper/TestClass1.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/init/Loop/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/init/Loop/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/init/function/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/init/function/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/init/if/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/init/if/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/init/operator/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/init/operator/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/init/variable/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/init/variable/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/init/when/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/init/when/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/oop/access/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/oop/access/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/oop/access/SubClass1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/oop/access/SubClass1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/oop/access/TestClass.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/oop/access/TestClass.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/oop/contructor/TestClass1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/oop/contructor/TestClass1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/oop/contructor/TestClass2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/oop/contructor/TestClass2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/oop/contructor/TestClass3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/oop/contructor/TestClass3.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/oop/contructor/TestClass4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/oop/contructor/TestClass4.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/oop/inherit/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/oop/inherit/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/oop/inherit/SubClass1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/oop/inherit/SubClass1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/oop/inherit/SubClass2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/oop/inherit/SubClass2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/oop/inherit/SuperClass1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/oop/inherit/SuperClass1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/oop/inherit/SuperClass2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/oop/inherit/SuperClass2.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +38,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Class" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Interface" />
         <option value="Kotlin Class" />
       </list>
     </option>
@@ -63,35 +68,35 @@
 }</component>
   <component name="RunManager" selected="Kotlin.MainKt (2)">
     <configuration name="MainKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.MainKt" />
+      <option name="MAIN_CLASS_NAME" value="oop.thissuper.MainKt" />
       <module name="kotlin_basic" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="MainKt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.inherit.MainKt" />
+      <option name="MAIN_CLASS_NAME" value="oop.abstact.MainKt" />
       <module name="kotlin_basic" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="MainKt (4)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="if.MainKt" />
+      <option name="MAIN_CLASS_NAME" value="oop.lazyinitialize.MainKt" />
       <module name="kotlin_basic" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="MainKt (5)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="when.MainKt" />
+      <option name="MAIN_CLASS_NAME" value="oop.overriding.MainKt" />
       <module name="kotlin_basic" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loop.MainKt" />
+      <option name="MAIN_CLASS_NAME" value="oop.any.MainKt" />
       <module name="kotlin_basic" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -116,8 +121,16 @@
       <option name="presentableId" value="Default" />
       <updated>1655253005594</updated>
       <workItem from="1655253007074" duration="8820000" />
-      <workItem from="1655273861218" duration="6815000" />
+      <workItem from="1655273861218" duration="12902000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1655337331870</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655337331870</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,5 +146,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>
