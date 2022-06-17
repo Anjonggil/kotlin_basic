@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a27fa309-cd77-4cd3-bcac-c34f6c918fa4" name="Changes" comment="다양한 클래스">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinclass/companion/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinclass/companion/TestClass1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinclass/dataclass/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinclass/dataclass/TestClass1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinclass/enumerate/Number.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinclass/generic/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinclass/generic/TestClass1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinclass/generic/TestClass2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinclass/generic/TestClass3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinclass/inner/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinclass/inner/Outer1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinclass/nullsafe/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinclass/nullsafe2/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinclass/reflection/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinclass/sealed/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinclass/typecasting/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/function/functionprogramming/Main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,9 +18,9 @@
       <list>
         <option value="Kotlin Interface" />
         <option value="Class" />
-        <option value="Kotlin Class" />
         <option value="Kotlin Enum" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -124,7 +109,7 @@
       <updated>1655253005594</updated>
       <workItem from="1655253007074" duration="8820000" />
       <workItem from="1655273861218" duration="22559000" />
-      <workItem from="1655431910367" duration="5543000" />
+      <workItem from="1655431910367" duration="9244000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1655337331870</created>
@@ -140,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655357300441</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="다양한 클래스">
+      <created>1655446095423</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655446095423</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,6 +152,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="코틀린 객체지향 프로그래밍" />
-    <option name="LAST_COMMIT_MESSAGE" value="코틀린 객체지향 프로그래밍" />
+    <MESSAGE value="다양한 클래스" />
+    <option name="LAST_COMMIT_MESSAGE" value="다양한 클래스" />
   </component>
 </project>
